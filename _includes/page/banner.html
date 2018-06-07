@@ -1,0 +1,27 @@
+<div class="banner{% if page.id == 'overview' %} banner--overview{% endif %}">
+  <div class="site-header__offset"></div>
+  <div class="banner__bg" style="background-image: url('{{site.img}}/banner/{{page.id}}.jpg')"></div>
+  <div class="banner__wrap">
+    {% if page.banner.content %}
+      {{page.banner.content | liquify}}
+    {% else %}
+      <div class="container container--no-padding text--center">
+        {% if page.banner.title-sup %}<span class="title title--lg title--display">{{page.banner.title-sup}}</span>{% endif %}
+        <h1 class="banner-title vpad--xs">{% if page.banner.title %}{{page.banner.title}}{% else %}{{page.title}}{% endif %}</h1>
+        {% if page.banner.title-sub %}<span class="title title--lg title--display">{{page.banner.title-sub}}</span>{% endif %}
+      </div>
+    {% endif %}
+  </div>
+
+  {% if page.banner.intro %}
+  <div class="banner__intro">
+    <div class="banner__intro-content container container--xl text--center">
+      {{page.banner.intro}}
+    </div>
+    {% if page.page-nav %}
+      {% include nav/page.html %}
+    {% endif %}
+  </div>
+  {% endif %}
+
+</div>

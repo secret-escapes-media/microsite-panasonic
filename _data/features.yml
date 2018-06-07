@@ -1,0 +1,46 @@
+
+- id: burst-photo
+  title: Unmissable moments with 4K photo
+  content: Nullam quis risus eget urna mollis ornare vel eu leo. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Aenean lacinia bibendum nulla sed consectetur. Donec ullamcorper nulla non metus auctor fringilla. Sed posuere consectetur est at lobortis.
+  section: greece
+  pages:
+    - id: overview
+
+- id: video
+  title: 4K video. Life in vivid detail
+  content: Nullam quis risus eget urna mollis ornare vel eu leo. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Aenean lacinia bibendum nulla sed consectetur. Donec ullamcorper nulla non metus auctor fringilla. Sed posuere consectetur est at lobortis.
+  section: greece
+  pages:
+    - id: overview
+
+
+
+- id: zoom
+  title: Capture stunning shots with a powerful zoom
+  content: Nullam quis risus eget urna mollis ornare vel eu leo. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Aenean lacinia bibendum nulla sed consectetur. Donec ullamcorper nulla non metus auctor fringilla. Sed posuere consectetur est at lobortis.
+  section: italy
+  pages:
+    - id: overview
+
+- id: live-view
+  title: Live view finder to see it all
+  content: Nullam quis risus eget urna mollis ornare vel eu leo. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Aenean lacinia bibendum nulla sed consectetur. Donec ullamcorper nulla non metus auctor fringilla. Sed posuere consectetur est at lobortis.
+  section: italy
+  pages:
+    - id: overview
+
+
+
+- id: day-night
+  title: Capture day & night
+  content: Nullam quis risus eget urna mollis ornare vel eu leo. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Aenean lacinia bibendum nulla sed consectetur. Donec ullamcorper nulla non metus auctor fringilla. Sed posuere consectetur est at lobortis.
+  section: spain
+  pages:
+    - id: overview
+
+- id: post-focus
+  title: Shoot now. Focus later
+  content: Nullam quis risus eget urna mollis ornare vel eu leo. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Aenean lacinia bibendum nulla sed consectetur. Donec ullamcorper nulla non metus auctor fringilla. Sed posuere consectetur est at lobortis.
+  section: spain
+  pages:
+    - id: overview
