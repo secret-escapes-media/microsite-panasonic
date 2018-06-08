@@ -10,7 +10,7 @@ banner:
     Small size, <br />big adventure
   title-sub: "The Panasonic TZ100"
   intro: >
-    <p class="text--xxl text--normal">Discover your new travel partner – the LUMIX TZ100. Its compact size belies the quality and sharpness of the images it captures, with a Leica lens and 10x zoom offering outstanding photos in a small, travel-friendly package. Unpick its features across three types of destination – city, beach, country – and find your picture-perfect getaway here. Your adventure is just beginning...</p>
+    <p class="text--xl text--normal">Discover your new travel partner – the LUMIX TZ100. Its compact size belies the quality and sharpness of the images it captures, with a Leica lens and 10x zoom offering outstanding photos in a small, travel-friendly package. Unpick its features across three types of destination – city, beach, country – and find your picture-perfect getaway here. Your adventure is just beginning...</p>
 
 page-nav:
   - id: greece
@@ -34,7 +34,7 @@ sections:
     lumix:
       title: TZ100 Features
       content: >
-        <p>Treasure glorious sea views forever with high quality photos from the LUMIX TZ100. Whether you’re looking over crystalline waters or catching the action out on the waves, the TZ100 captures all the details with 4K video and 4K photo. Capture a surfer cresting the waves, and rewind your video to export 4K photos from what you’ve captured. No matter how fast the action, you’ll never miss the moment. </p>
+        Treasure glorious sea views forever with high quality photos from the LUMIX TZ100. Whether you’re looking over crystalline waters or catching the action out on the waves, the TZ100 captures all the details with 4K video and 4K photo. Capture a surfer cresting the waves, and rewind your video to export 4K photos from what you’ve captured. No matter how fast the action, you’ll never miss the moment.
       features:
         - id: burst-photo
         - id: video
@@ -47,7 +47,7 @@ sections:
     lumix:
       title: TZ100 Features
       content: >
-        <p>A vast, beguiling landscape unfolds in-front of you. You snap your wide-angle shot, but a distant detail catches your eye. The camera’s powerful 10x zoom is more than capable of framing that far-off focal point perfectly. As you explore the countryside under the bright Italian sun, don’t worry about screen glare – the TZ100’s live viewfinder engages the minute you lift your camera to your eye. </p>
+        A vast, beguiling landscape unfolds in-front of you. You snap your wide-angle shot, but a distant detail catches your eye. The camera’s powerful 10x zoom is more than capable of framing that far-off focal point perfectly. As you explore the countryside under the bright Italian sun, don’t worry about screen glare – the TZ100’s live viewfinder engages the minute you lift your camera to your eye.
       features:
         - id: zoom
         - id: live-view
@@ -60,7 +60,7 @@ sections:
     lumix:
       title: TZ100 Features
       content: >
-        <p>The LUMIX TZ100 is your go-to city snapper. For budding street photographers its sleek, inconspicuous design makes capturing those serendipitous moments. Don’t worry about missing that decisive shot – the TZ100 features post-focus, so you can change the focus of your image after you’ve taken your shot. It’s high ISO capability and powerful 20-Megapixel 1-inch sensor means you can shoot day or night, perfect for those late-night shots on the city streets. </p>
+        The LUMIX TZ100 is your go-to city snapper. For budding street photographers its sleek, inconspicuous design makes capturing those serendipitous moments. Don’t worry about missing that decisive shot – the TZ100 features post-focus, so you can change the focus of your image after you’ve taken your shot. It’s high ISO capability and powerful 20-Megapixel 1-inch sensor means you can shoot day or night, perfect for those late-night shots on the city streets.
       features:
         - id: day-night
         - id: post-focus
@@ -100,12 +100,12 @@ sections:
       <!-- SECTION INTRO -->
       <div class="section__intro row row--valign-center">
         <div class="col col--6">
-          <div class="bg-img bg-img--21-9" style="background-image: url({{site.img}}/content/{{section.id}}/01.jpg);"></div>
+          <div class="bg-img bg-img--16-9 bg-img--xxl-21-9" style="background-image: url({{site.img}}/content/{{section.id}}/01.jpg);"></div>
           <div class="space--lg"></div>
           {{section.intro}}
         </div>
-        <div class="col col--6">
-          <div class="bg-img bg-img--4-3" style="background-image: url({{site.img}}/content/{{section.id}}/02.jpg);"></div>
+        <div class="col col--6 hide--lg">
+          <div class="bg-img bg-img--3-4 bg-img--xxl-4-3" style="background-image: url({{site.img}}/content/{{section.id}}/02.jpg);"></div>
         </div>
       </div>
       <div class="space--xxl"></div>
@@ -119,7 +119,7 @@ sections:
               <h3 class="title title--xs text--bold">{{section.lumix.title}}</h3>
             </div>
             <div>
-              {{section.lumix.content}}
+              <p class="text--sm">{{section.lumix.content}}</p>
               <div class="space--sm"></div>
               <a href="" class="btn btn--blue btn--sm">Shop the TZ100</a>
             </div>

@@ -4,7 +4,7 @@ $site-nav-height:    56px;
 $site-nav-height-sm: 44px;
 $nav-width-bp:       640px;
 $nav-color:          $grey-darkest;
-$page-nav-color:     $grey-darker;
+$page-nav-color:     $white;
 
 
 // global site nav height
@@ -109,10 +109,11 @@ $page-nav-color:     $grey-darker;
   &--page {
     position: absolute;
     width: 100%;
-    background-color: rgba($page-nav-color,.5);
-    box-shadow: 0 0 0 1px rgba($grey-lightest,0.1);
+    background-color: rgba($page-nav-color,.9);
+    box-shadow: 0 0 0 1px rgba($grey-darkest,0.1);
+    & .site-nav__item { border-color: rgba($grey-darkest,0.1); }
     & .site-nav__link {
-      color: $white;
+      color: $grey-darker;
       &.is-current      { background-color: rgba($page-nav-color,.66); }
       .no-touch &:hover { background-color: rgba($page-nav-color,1); }
     }
@@ -126,7 +127,6 @@ $page-nav-color:     $grey-darker;
     right: 0;
     bottom: auto;
     z-index: $z-nav;
-    background-color: rgba($page-nav-color,.9);
     box-shadow: 0 3px 6px rgba($grey-darkest,0.1);
   }
 }

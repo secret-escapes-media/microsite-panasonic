@@ -2,10 +2,14 @@
 
 .text {
   // sizes
-  &--xxl { font-size: 1.4rem; line-height: 1.6; letter-spacing: 0; }
-  &--xl  { font-size: 1.25rem; line-height: 1.6; letter-spacing: 0; }
+  &--xxl { font-size: 1.15rem; line-height: 1.65; letter-spacing: 0; }
+  &--xl  { font-size: 1.15rem; line-height: 1.65; letter-spacing: 0; }
   &--lg  { font-size: 1.15rem; letter-spacing: 0; }
-  &--sm  { font-size: .8rem; }
+  &--sm  { font-size: .9rem; }
+  @include bp($xl) {
+    &--xxl { font-size: 1.3rem; }
+    &--xl  { font-size: 1.2rem; }
+  }
 
   // styles
   &--italic       { font-style: italic; }

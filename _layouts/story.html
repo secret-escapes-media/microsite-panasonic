@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+<div class="bg--grey-darkest text--white">
+
+
+  <div class="story__author container container--xl">
+    <div class="row row--valign-center row--no-gutters">
+      <div class="col col--3">
+        <div class="boxpad--md">
+          <div class="bg-img bg-img--1-1 bg-img--circle" style="background-image: url({{site.img}}/content/story/by.jpg);"></div>
+        </div>
+      </div>
+      <div class="col col--9">
+        <div class="boxpad--md">
+          <h4 class="title title--xxs">Meet <span class="text--bolder">{{page.by.name}}</span></h4>
+          {{page.by.intro}}
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <div class="story vpad--xxl">
+    {{content}}
+  </div>
+
+
+</div>
+
+{% include page/promo-competition.html %}
+

@@ -1,4 +1,6 @@
 <header class="site-header">
   {% include nav/core.html %}
-  {% include nav/site.html %}
+  {% if page.id == 'overview' or page.layout == 'story' %}
+    {% include nav/site.html %}
+  {% endif  %}
 </header>

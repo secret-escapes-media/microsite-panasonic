@@ -1,9 +1,9 @@
 // These are the default settings for type
 
 html { // This is the root size for REM
-  font-size: 81.25%; // = 13px
-  @include bp($md) { font-size: 87.5%; } // = 14px
-  @include bp($xl) { font-size: 92.5%; } // = 15px
+  font-size: 87.5%; // = 14px
+  @include bp($md) { font-size: 92.5%; } // = 15px
+  @include bp($xl) { font-size: 100%; } // = 16px
 }
 
 body {
@@ -21,7 +21,7 @@ body {
 
   // light theme
   font-weight: 300;
-  line-height: 1.55;
+  line-height: 1.65;
   letter-spacing: .015rem;
   color: $grey-dark;
   background-color: $white;

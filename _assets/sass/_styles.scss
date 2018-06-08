@@ -8,10 +8,18 @@
   &__title {
     position: relative;
     z-index: 1;
-    margin-bottom: -100px;
+    margin-bottom: -60px;
+    @include bp($lg){ margin-bottom: -100px; }
     &-title {
-      font-size: $s13;
-      text-shadow: 8px 6px 0 $white;
+      text-shadow: 4px 3px 0 $white;
+      font-size: $s9;
+      @include bp($lg){
+        font-size: $s11;
+      }
+      @include bp($xxl){
+        text-shadow: 8px 6px 0 $white;
+        font-size: $s13;
+      }
     }
   }
   &__intro {}
@@ -66,5 +74,31 @@
   }
   &:hover &__text {
     padding: $s2 $s2;
+  }
+}
+
+
+
+.story {
+  &__author {
+    margin-top: -120px;
+    position: relative;
+    z-index: 1;
+    background-color: rgba($grey-darker, 0.8);
+    padding: $s2 $s4;
+  }
+  &__section {
+    & + & { padding-top: $s6; }
+  }
+  &__image {}
+  &__image-caption {
+    display: block;
+    padding: $s-2 0;
+    border-bottom: 1px solid rgba($white,0.1);
+    text-align: center;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    font-size: $s-1;
   }
 }

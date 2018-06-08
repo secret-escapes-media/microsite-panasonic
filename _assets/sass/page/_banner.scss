@@ -17,15 +17,6 @@
     min-height: 650px;
     max-height: none;
   }
-  &--overview {
-    @include bp($lg){
-      min-height: 100%;
-      & .banner__wrap {
-        min-height: 400px;
-        padding-top: 70px;
-      }
-    }
-  }
   &__wrap {
     position: relative;
     z-index: $z-content-upper;
@@ -35,7 +26,15 @@
     flex-direction: column;
     justify-content: center;
     overflow: hidden;
+    background: linear-gradient(to bottom, rgba($grey-darkest,0) 20%,rgba($grey-darkest,0.85) 100%);
+    &--bottom { justify-content: flex-end; }
+  }
+  &__content {
     @include page-padding;
+    padding-bottom: $s0;
+    @include bp($lg){
+      padding-bottom: $s6;
+    }
   }
   &__bg {
     position: absolute;
@@ -75,7 +74,31 @@
     width: 100%;
     background: linear-gradient(to bottom, rgba($grey-darkest,0) 0%,rgba($grey-darkest,0.85) 80%);
     &-content {
-      padding: $s6 0;
+      padding-top: $s6;
+      padding-bottom: $s6;
+    }
+  }
+
+
+
+  // OVERVIEW BANNER
+  //.banner {
+  &--overview {
+    min-height: 700px;
+    height: 100%;
+    @include bp($lg){
+      min-height: 800px;
+    }
+  }
+
+
+
+  // OVERVIEW BANNER
+  //.banner {
+  &--story {
+    z-index: 0;
+    .banner__wrap {
+      background: linear-gradient(to bottom, rgba($grey-darkest,0) 20%,rgba($grey-darkest,1) 100%);
     }
   }
 }

@@ -12,6 +12,11 @@ $sm:   330px;
   @media (min-width: $width){ @content; }
 }
 
+// horizontal breakpoints
+@mixin max-bp($width){
+  @media (max-width: $width){ @content; }
+}
+
 // vertical breakpoint
 @mixin vbp($width){
   @media (min-height: $width){ @content; }

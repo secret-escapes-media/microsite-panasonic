@@ -1,4 +1,5 @@
-<div class="banner">
+<div class="banner banner--story">
+  <div class="site-header__offset"></div>
   <div class="banner__bg" style="background-image: url('{{site.img}}/banner/{{page.id}}.jpg')"></div>
   <div class="banner__wrap">
     {% if page.banner.content %}
@@ -6,12 +7,10 @@
     {% else %}
       <div class="container container--no-padding text--center">
         {% if page.banner.title-sup %}<div class="banner-title--sub title title--lg title--display">{{page.banner.title-sup}}</div>{% endif %}
-        <h1 class="banner-title vpad--xs">{% if page.banner.title %}{{page.banner.title}}{% else %}{{page.title}}{% endif %}</h1>
+        <h1 class="title title--xxxxl text--bolder text--upper vpad--xs">{% if page.banner.title %}{{page.banner.title}}{% else %}{{page.title}}{% endif %}</h1>
         {% if page.banner.title-sub %}<div class="banner-title--sub title title--lg title--display">{{page.banner.title-sub}}</div>{% endif %}
       </div>
     {% endif %}
   </div>
-  <div class="banner__nav">
-    {% include nav/site.html %}
-  </div>
+
 </div>
