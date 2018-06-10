@@ -109,7 +109,8 @@ gulp.task('build-main-js', function(cb) {
     // plugins
     './node_modules/jquery/dist/jquery.min.js',
     './node_modules/jquery-countdown/dist/jquery.countdown.min.js',
-    './node_modules/waypoints/lib/jquery.waypoints.min.js',
+    './node_modules/owl.carousel/dist/owl.carousel.min.js',
+    // './node_modules/waypoints/lib/jquery.waypoints.min.js',
 
     // custom js - with on doc ready wrapper
     './_assets/js/_components/on-ready/start.js',
@@ -120,6 +121,7 @@ gulp.task('build-main-js', function(cb) {
     './_assets/js/_components/modal.js',
     './_assets/js/_components/modal-nav.js',
     './_assets/js/_components/sticky-nav.js',
+    './_assets/js/_components/banner.js',
 
     // custom js for project
     './_assets/js/main.js',
