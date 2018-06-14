@@ -8,30 +8,43 @@ nav-title: Competition
 
 banner:
   title: Competition
-  title-sub: Win your very own travel photography adventure
-
 
 intro: >
-  <p class="text--xxl">Enter below to be in with the chance of winning your very own LUMIX TZ100 plus £500 Secret Escapes credit so you can begin your photography adventure… Where will you go?</p>
+  <h2 class="title title--display title--lg">Win your very own travel photography adventure</h2>
+
+description: >
+  <p class="text--xxl">Enter below to be in with the chance of winning your very own Panasonic LUMIX TZ100 plus £500 Secret Escapes credit so you can begin your photography adventure… <span class="text--bold">Where will you go?</span></p>
+  <p class="text-xxl">Be sure to follow LUMIX on Instagram to gain an extra entry into this competition!</p>
 ---
 
 
 
 
-
-{% if page.intro %}
 <div class="bg--grey-darkest text--white">
   <div class="wp" id="start"></div>
-  <div class="container container--xl vpad--xxl text--center">
+  <div class="container container--xxl vpad--xxl text--center">
     {{page.intro}}
   </div>
 </div>
-{% endif %}
 
+
+<div class="row row--constant-4-4-4 row--no-gutters">
+  <div class="col">
+    <div class="bg-img bg-img--3-4 bg-img--lg-4-3" style="background-image: url({{site.img}}/content/competition/01.jpg);"></div>
+  </div>
+  <div class="col">
+    <div class="bg-img bg-img--3-4 bg-img--lg-4-3" style="background-image: url({{site.img}}/content/competition/02.jpg);"></div>
+  </div>
+  <div class="col">
+    <div class="bg-img bg-img--3-4 bg-img--lg-4-3" style="background-image: url({{site.img}}/content/competition/03.jpg);"></div>
+  </div>
+</div>
 
 
 <div class="bg--grey-darker text--white">
-  <div class="container container--xl text--center vpad--xl">
+  <div class="container container--xl text--center vpad--xxl">
+    {{page.description}}
+    <div class="space--lg"></div>
     <iframe src="https://promotion5145.strutta.me" width="100%" height="600"> </iframe>
   </div>
 </div>

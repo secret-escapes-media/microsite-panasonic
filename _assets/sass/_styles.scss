@@ -45,23 +45,20 @@
 
 
 .feature {
-  @include transition;
+  // @include transition;
   position: relative;
   display: block;
   overflow: hidden;
   border-radius: 4px;
-  transform: scale(1);
-  box-shadow: 0 2px 4px 0 rgba($grey-darkest,0.1);
-  &:hover {
-    transform: scale(1.05);
-    box-shadow: 0 3px 10px 0 rgba($grey-darkest,0.1);
-  }
-
-  &__image {
-    background-color: transparent;
-  }
+  // transform: scale(1);
+  // box-shadow: 0 2px 4px 0 rgba($grey-darkest,0.1);
+  // &:hover {
+  //   transform: scale(1.05);
+  //   box-shadow: 0 3px 10px 0 rgba($grey-darkest,0.1);
+  // }
+  &__image { background-color: transparent; }
   &__text {
-    @include transition;
+    // @include transition;
     position: absolute;
     width: 100%;
     left: 0; right: 0;
@@ -72,9 +69,7 @@
     color: $white;
     & .title { color: $white; }
   }
-  &:hover &__text {
-    padding: $s2 $s2;
-  }
+  // &:hover &__text { padding: $s2 $s2; }
 }
 
 
