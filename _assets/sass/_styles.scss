@@ -30,16 +30,20 @@
     background-color: $white;
     border: 1px solid #dedfec;
     &-title {
-      background-color: #dedfec;
-      color: $grey-darkest;
-      padding: 5px 10px;
-      border-radius: 4px;
-      display: block;
-      top: -20px;
-      position: absolute;
+      margin-bottom: $s0;
+      @include bp($xl){
+        margin-bottom: 0;
+        background-color: #dedfec;
+        color: $grey-darkest;
+        padding: 5px 10px;
+        border-radius: 4px;
+        display: block;
+        top: -20px;
+        position: absolute;
+      }
     }
   }
-  &__offers {}
+
 }
 
 

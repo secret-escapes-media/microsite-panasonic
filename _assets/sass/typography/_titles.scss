@@ -45,7 +45,8 @@
   line-height: 1;
   @include bp($lg){ font-size: $s8; }
   @include bp($xl){ font-size: $s10; }
-  @include bp($xxl){ font-size: $s12; }
+  @include bp($xxl){ font-size: $s11; }
+  @include bp($xxxl){ font-size: $s12; }
   &--sub {
     font-size: $s4;
     @include bp($lg){ font-size: $s5; }

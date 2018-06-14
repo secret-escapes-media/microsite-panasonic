@@ -117,6 +117,10 @@ $page-nav-color:     $white;
       &.is-current      { background-color: rgba($page-nav-color,.66); }
       .no-touch &:hover { background-color: rgba($page-nav-color,1); }
     }
+
+    &:before {
+      background-image: url("../img/icons/nav-arrow-light.svg");
+    }
   }
 
   // js-sticky-nav style
