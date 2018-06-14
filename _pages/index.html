@@ -162,7 +162,7 @@ sections:
         {% assign offers = site.data.offers | where:'category', section.id | sort: 'saved' | reverse %}
         {% for offer in offers %}
           <div class="col">
-            {% include offer/offer.html %}
+            {% include offer/offer-sm.html %}
           </div>
         {% endfor %}
         <div class="container text--center vpad--lg">

@@ -5,6 +5,7 @@ $offer-max-width: 600px;
 
 .offer {
   position: relative;
+  z-index: $z-content;
   width: 100%;
   max-width: $offer-max-width;
   margin-left: auto;
@@ -113,7 +114,7 @@ $offer-max-width: 600px;
       display: block;
       font-size: $s-1;
       font-weight: 400;
-      padding: $s-4 0;
+      padding-bottom: $s-4;
       @include bp($md) { display: block; }
     }
     &-percent {
@@ -173,4 +174,20 @@ $offer-max-width: 600px;
     @include bp($xxl){ font-size: $s3; }
   }
   &.offer--lg &__price { font-size: $s2; }
+}
+
+// LARGE OFFER CARD MODIFIERS
+.offer {
+  &.offer--sm &__saved-label { display: inline-block; }
+  &.offer--sm &__title {
+    font-size: $s1;
+    @include bp($lg){ font-size: $s1; }
+    @include bp($xxl){ font-size: $s1; }
+  }
+
+  &.offer--sm &__bottom-right {
+    display: flex;
+    align-items: center;
+    & .offer__separator { margin-left: 1px; }
+  }
 }

@@ -5,7 +5,7 @@
   &--xxl { font-size: 1.15rem; line-height: 1.65; letter-spacing: 0; }
   &--xl  { font-size: 1.15rem; line-height: 1.65; letter-spacing: 0; }
   &--lg  { font-size: 1.15rem; letter-spacing: 0; }
-  &--sm  { font-size: .9rem; }
+  &--sm  { font-size: .8rem; }
   @include bp($xl) {
     &--xxl { font-size: 1.3rem; }
     &--xl  { font-size: 1.2rem; }

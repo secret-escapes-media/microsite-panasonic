@@ -108,6 +108,7 @@ $page-nav-color:     $white;
 
   &--page {
     position: absolute;
+    z-index: $z-nav;
     width: 100%;
     background-color: rgba($page-nav-color,.9);
     box-shadow: 0 0 0 1px rgba($grey-darkest,0.1);
