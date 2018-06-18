@@ -101,3 +101,26 @@
     font-size: $s-1;
   }
 }
+
+
+
+.code {
+  background-color: $grey-lightest;
+  width: 100%;
+  max-width: $lg;
+  margin: auto;
+  padding: $s2;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  &__text {
+    flex-grow: 1;
+    background-color: $white;
+    padding: 1rem;
+    text-align: center;
+  }
+  &__btn {
+    padding-left: $s2;
+  }
+}

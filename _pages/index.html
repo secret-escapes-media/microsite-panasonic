@@ -23,6 +23,11 @@ page-nav:
     title: Competition
 
 
+code-section:
+  intro: Start your adventure with an exclusive £50 off when you buy the LUMIX TZ100 from Jessops, using the code below – only for Secret Escapes members!
+  code: CODE
+  link:
+
 
 sections:
 
@@ -75,19 +80,27 @@ sections:
 
 
 
-{% if page.intro %}
-<div class="bg--grey-darkest text--white">
+<div class="bg--white">
   <div class="wp" id="start"></div>
-  <div class="container container--xxl vpad--xxl text--center">
-    {{page.intro}}
+  <div class="container container--xxl vpad--xl">
+    <p class="text--xxl text--normal text--center">{{page.code-section.intro}}</p>
+    <div class="space--md"></div>
+
+    <div class="code">
+      <div class="code__text">
+        <span class="title title--xs text--bolder">{{page.code-section.code}}</span>
+      </div>
+      <div class="code__btn">
+        <a href="{{page.code-section.link}}" target="_blank" class="btn btn--blue">Shop now</a>
+      </div>
+    </div>
   </div>
 </div>
-{% endif %}
 
 
 
 
-<div class="bg--grey-lightest vpad--xxl">
+<div class="bg--grey-lightest vpad--xl">
 {% for section in page.sections %}
   <div class="section">
     <div class="wp" id="{{section.id}}"></div>
