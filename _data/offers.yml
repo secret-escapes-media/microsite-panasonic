@@ -5,38 +5,38 @@
 ##-----------------------------------
 
 
-- title: KB Ammos
-  id: kb-ammos
+- title: Kipi Suites
+  id: kipi-suites
   category: greece
-  location: Skiathos, Greece
-  description: Bliss out at a this lovely new boutique gem in Skiathos
-  price: 72
+  location: Epirus, Greece
+  description: A restored village retreat with incredible Pindus mountain views
+  price: 35
   price-description: per person per night
   saved: 35
-  expires: 2018/06/20
-  link: https://www.secretescapes.com/kb-ammos-skiathos-greece-europe/sale?utm_source=microsite&utm_medium=SE_media&utm_campaign=Panasonic_June2018
+  expires: 2018/06/25
+  link: https://www.secretescapes.com/kipi-suites-epirus-greece4/sale?utm_source=microsite&utm_medium=SE_media&utm_campaign=Panasonic_June2018
 
-- title: 5* Mykonos break at a private beach resort
-  id: 5-mykonos-break-at-a-private-beach-resort
+- title: 5* adults-only Crete beach holiday
+  id: 5-adults-only-crete-beach-holiday
   category: greece
-  location: Saint John Mykonos Hotel, Greece
-  description: A chic hotel with heavenly sea views and a secluded beach
-  price: 719
+  location: Royal Marmin Bay Boutique & Art Hotel, Greece
+  description: Escape to an adults-only Crete resort with a private beach
+  price: 799
   price-description: per person for 5 nights
   saved:
-  expires: 2018/06/20
-  link: https://www.secretescapes.com/5-star-mykonos-break-at-a-private-beach-resort-saint-john-mykonos-hotel-greece/sale?utm_source=microsite&utm_medium=SE_media&utm_campaign=Panasonic_June2018
+  expires: 2018/06/25
+  link: https://www.secretescapes.com/5-star-adults-only-crete-beach-holiday-elounda-greece/sale?utm_source=microsite&utm_medium=SE_media&utm_campaign=Panasonic_June2018
 
-- title: 5* all-inclusive Crete holiday at a hilltop hideaway
-  id: 5-all-inclusive-crete-holiday-at-a-hilltop-hideaway
+- title: 5* Halkidiki holiday at a beachfront retreat
+  id: 5-halkidiki-holiday-at-a-beachfront-retreat
   category: greece
-  location: Sea Side Resort & Spa, Greece
-  description: All-inclusive bliss in the Cretan hills
-  price: 529
+  location: Eagles Palace, Greece
+  description: An award-winning, five-star hideaway in dreamy Halkidiki
+  price: 595
   price-description: per person for 5 nights
-  saved: 33
-  expires: 2018/06/20
-  link: https://www.secretescapes.com/5-star-all-inclusive-crete-holiday-at-a-hilltop-hideaway-sea-side-resort-and-spa-greece/sale?utm_source=microsite&utm_medium=SE_media&utm_campaign=Panasonic_June2018
+  saved:
+  expires: 2018/06/25
+  link: https://www.secretescapes.com/5-star-halkidiki-holiday-at-a-beachfront-retreat-eagles-palace-greece1/sale?utm_source=microsite&utm_medium=SE_media&utm_campaign=Panasonic_June2018
 
 
 #####################################
@@ -52,7 +52,7 @@
   price: 66
   price-description: per person per night
   saved: 46
-  expires: 2018/06/20
+  expires: 2018/06/25
   link: https://www.secretescapes.com/borgo-conde-wine-estate-emilia-romagna-italy/sale?utm_source=microsite&utm_medium=SE_media&utm_campaign=Panasonic_June2018
 
 - title: Palazzo Righini
@@ -63,36 +63,25 @@
   price: 47
   price-description: per person per night
   saved: 51
-  expires: 2018/06/20
+  expires: 2018/06/25
   link: https://www.secretescapes.com/palazzo-righini-a-piedmont-italy/sale?utm_source=microsite&utm_medium=SE_media&utm_campaign=Panasonic_June2018
 
-- title: Borgo Giusto Albergo Diffuso
-  id: borgo-giusto-albergo-diffuso
+- title: Rural northern Italy stay with incredible vintage car tours
+  id: rural-northern-italy-stay-with-incredible-vintage-car-tours
   category: italy
-  location: Tuscany, Italy
-  description: Tuscan bliss at a 17th-century base with a pool and spa
-  price: 40
-  price-description: per person per night
-  saved: 83
-  expires: 2018/06/20
-  link: https://www.secretescapes.com/borgo-giusto-albergo-diffuso-tuscany-italy/sale?utm_source=microsite&utm_medium=SE_media&utm_campaign=Panasonic_June2018
+  location: Monroc Hotel, Italy
+  description: A mountain retreat in tranquil Sole Valley with vintage car tours
+  price: 510
+  price-description: per room per night
+  saved: 26
+  expires: 2018/06/25
+  link: https://www.secretescapes.com/monroc-hotel-alto-adige-italy/sale?utm_source=microsite&utm_medium=SE_media&utm_campaign=Panasonic_June2018
 
 
 #####################################
 ##  SPAIN OFFERS // category: spain
 ##-----------------------------------
 
-
-- title: Fairmont Rey Juan Carlos I
-  id: fairmont-rey-juan-carlos-i
-  category: spain
-  location: Barcelona, Spain
-  description: A stylish five-star Barcelona base with sleek facilities
-  price: 65
-  price-description: per person per night
-  saved: 44
-  expires: 2018/06/20
-  link: https://www.secretescapes.com/fairmont-rey-juan-carlos-i-barcelona-spain12/sale?utm_source=microsite&utm_medium=SE_media&utm_campaign=Panasonic_June2018
 
 - title: Occidental Granada
   id: occidental-granada
@@ -102,7 +91,7 @@
   price: 29
   price-description: per person per night
   saved: 38
-  expires: 2018/06/20
+  expires: 2018/06/25
   link: https://www.secretescapes.com/occidental-granada-andalucia-granada-spain1/sale?utm_source=microsite&utm_medium=SE_media&utm_campaign=Panasonic_June2018
 
 - title: Hotel Indigo Barcelona - Plaza Catalunya
@@ -113,6 +102,16 @@
   price: 44
   price-description: per person per night
   saved: 56
-  expires: 2018/06/20
+  expires: 2018/06/25
   link: https://www.secretescapes.com/hotel-indigo-barcelona-plaza-catalunya-barcelona-spain23/sale?utm_source=microsite&utm_medium=SE_media&utm_campaign=Panasonic_June2018
 
+- title: Hotel Omm
+  id: hotel-omm
+  category: spain
+  location: Barcelona, Spain
+  description: A five-star spa design hotel in the heart of vibrant Barcelona
+  price: 76
+  price-description: per person per night
+  saved: 35
+  expires: 2018/06/25
+  link: https://www.secretescapes.com/hotel-omm-barcelona-spain-europe/sale?utm_source=microsite&utm_medium=SE_media&utm_campaign=Panasonic_June2018
