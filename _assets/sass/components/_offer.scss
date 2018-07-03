@@ -51,8 +51,8 @@ $offer-max-width: 600px;
     margin-left: 1.5em;
     margin-bottom: 1.15em;
     text-indent: -1.5em;
-    font-size: 0.75em;
-    line-height: 1.5;
+    font-size: 0.7em;
+    line-height: 1.1;
     text-transform: uppercase;
     letter-spacing: 0.05em;
     font-weight: 600;
@@ -184,7 +184,9 @@ $offer-max-width: 600px;
     @include bp($lg){ font-size: $s1; }
     @include bp($xxl){ font-size: $s1; }
   }
+  &.offer--sm &__description { font-size: 0.9rem; }
 
+  &.offer--sm &__bottom { padding-top: $s-1; }
   &.offer--sm &__bottom-right {
     display: flex;
     align-items: center;

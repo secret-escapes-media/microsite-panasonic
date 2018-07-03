@@ -13,7 +13,7 @@
   price: 599
   price-description: per person for 5 nights
   saved:
-  expires: 2018/07/03
+  expires: 2018/07/04
   link: https://www.secretescapes.com/5-star-adults-only-crete-beach-holiday-elounda-greece/sale?utm_source=microsite&utm_medium=SE_media&utm_campaign=Panasonic_June2018
 
 - title: Lutania Beach
@@ -24,7 +24,7 @@
   price: 119
   price-description: per room per night
   saved: 29
-  expires: 2018/07/03
+  expires: 2018/07/10
   link: https://www.secretescapes.com/lutania-beach-rhodes-greece/sale?utm_source=SE_Media&utm_medium=June2018&utm_campaign=Panasonic
 
 - title: Chic adults-only Corfu beach holiday with optional outdoor Jacuzzi
@@ -35,7 +35,7 @@
   price: 495
   price-description: per person for 5 nights
   saved: 30
-  expires: 2018/07/03
+  expires: 2018/07/10
   link: https://www.secretescapes.com/chic-adults-only-corfu-beach-holiday-with-optional-outdoor-jacuzzi-corfu-greece/sale?utm_source=SE_Media&utm_medium=June2018&utm_campaign=Panasonic
 
 
@@ -52,7 +52,7 @@
   price: 66
   price-description: per person per night
   saved: 46
-  expires: 2018/07/03
+  expires: 2018/07/10
   link: https://www.secretescapes.com/borgo-conde-wine-estate-emilia-romagna-italy/sale?utm_source=microsite&utm_medium=SE_media&utm_campaign=Panasonic_June2018
 
 - title: Castello di Baccaresca
@@ -63,7 +63,7 @@
   price: 89
   price-description: per room per night
   saved: 51
-  expires: 2018/07/03
+  expires: 2018/07/10
   link: https://www.secretescapes.com/castello-di-baccaresca-umbria-italy/sale?utm_source=SE_Media&utm_medium=June2018&utm_campaign=Panasonic
 
 - title: Landhotel Mühlwaldhof
@@ -74,7 +74,7 @@
   price: 62
   price-description: per person per night
   saved: 60
-  expires: 2018/07/03
+  expires: 2018/07/10
   link: https://www.secretescapes.com/landhotel-muehlwaldhof-south-tyrol-italy/sale?utm_source=SE_Media&utm_medium=June2018&utm_campaign=Panasonic
 
 
@@ -83,27 +83,6 @@
 ##-----------------------------------
 
 
-- title: Occidental Granada
-  id: occidental-granada
-  category: spain
-  location: Granada, Spain
-  description: A polished and modern Spanish stay in central Granada
-  price: 29
-  price-description: per person per night
-  saved: 38
-  expires: 2018/07/03
-  link: https://www.secretescapes.com/occidental-granada-andalucia-granada-spain1/sale?utm_source=microsite&utm_medium=SE_media&utm_campaign=Panasonic_June2018
-
-- title: Hotel Omm
-  id: hotel-omm
-  category: spain
-  location: Barcelona, Spain
-  description: A five-star spa design hotel in the heart of vibrant Barcelona
-  price: 76
-  price-description: per person per night
-  saved: 35
-  expires: 2018/07/03
-  link: https://www.secretescapes.com/hotel-omm-barcelona-spain-europe/sale?utm_source=microsite&utm_medium=SE_media&utm_campaign=Panasonic_June2018
 
 - title: H10 Puerta de Alcalá
   id: h10-puerta-de-alcalá
@@ -113,7 +92,29 @@
   price: 56
   price-description: per person per night
   saved: 37
-  expires: 2018/07/03
+  expires: 2018/07/10
   link: https://www.secretescapes.com/h10-puerta-de-alcala-madrid-spain/sale?utm_source=SE_Media&utm_medium=June2018&utm_campaign=Panasonic
+
+- title: Ohla Barcelona
+  id: ohla-barcelona
+  category: spain
+  location: Barcelona, Spain
+  description: A modern, five-star Barcelona hotel with rooftop terrace
+  price: 181
+  price-description: per room per night
+  saved: 47
+  expires: 2018/07/10
+  link: https://www.secretescapes.com/ohla-barcelona-barcelona-spain/sale?utm_source=microsite&utm_medium=SE_media&utm_campaign=Panasonic_July2018
+
+- title: Casa Romana
+  id: casa-romana
+  category: spain
+  location: Seville, Spain
+  description: Peace and elegance at a boutique hotel in Seville
+  price: 36
+  price-description: per person per night
+  saved: 46
+  expires: 2018/07/10
+  link: https://www.secretescapes.com/casa-romana-seville-spain/sale?utm_source=microsite&utm_medium=SE_media&utm_campaign=Panasonic_July2018
 
 
