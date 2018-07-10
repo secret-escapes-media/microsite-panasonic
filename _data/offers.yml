@@ -24,19 +24,19 @@
   price: 119
   price-description: per room per night
   saved: 29
-  expires: 2018/07/10
+  expires: 2018/07/17
   link: https://www.secretescapes.com/lutania-beach-rhodes-greece/sale?utm_source=SE_Media&utm_medium=June2018&utm_campaign=Panasonic
 
-- title: Relaxing break to Greece's pretty coast
-  id: relaxing-break-to-greece-s-pretty-coast
+- title: MarBella Nido Suite Hotel & Villas
+  id: marbella-nido-suite-hotel-villas
   category: greece
-  location: Ramada Loutraki Poseidon Resort, Greece
-  description: All-inclusive bliss at a resort set near Greece's oldest bath city
-  price: 449
-  price-description: per person for 5 nights
-  saved: 23
-  expires: 2018/07/10
-  link: https://www.secretescapes.com/relaxing-break-to-greeces-pretty-coast-ramada-loutraki-poseidon-resort-greece/sale?utm_source=microsite&utm_medium=SE_media&utm_campaign=Panasonic_July2018
+  location: Corfu, Greece
+  description: Adults-only bliss at a pristine hotel on Corfu's coast
+  price: 106
+  price-description: per person per night
+  saved: 36
+  expires: 2018/07/17
+  link: https://www.secretescapes.com/marbella-nido-suite-hotel-and-villas-corfu-greece-europe/sale?utm_source=microsite&utm_medium=SE_media&utm_campaign=Panasonic_July2018
 
 
 #####################################
@@ -44,27 +44,27 @@
 ##-----------------------------------
 
 
-- title: Borgo Condé Wine Estate
-  id: borgo-condé-wine-estate
+- title: Relais Campiglioni
+  id: relais-campiglioni
   category: italy
-  location: Emilia-Romagna, Italy
-  description: A foodie stay at an Italian wine estate in Emilia-Romagna
-  price: 66
+  location: Chianti, Italy
+  description: A rustic farmhouse stay in the Chianti hills
+  price: 56
   price-description: per person per night
   saved: 46
-  expires: 2018/07/10
-  link: https://www.secretescapes.com/borgo-conde-wine-estate-emilia-romagna-italy/sale?utm_source=microsite&utm_medium=SE_media&utm_campaign=Panasonic_June2018
+  expires: 2018/07/17
+  link: https://www.secretescapes.com/relais-campiglioni-chianti-italy/sale?utm_source=microsite&utm_medium=SE_media&utm_campaign=Panasonic_July2018
 
-- title: Castello di Baccaresca
-  id: castello-di-baccaresca
+- title: C-Hotel & Spa
+  id: c-hotel-spa
   category: italy
-  location: Umbria, Italy
-  description: A sublime castle retreat with luxury spa in tranquil Umbria
-  price: 89
-  price-description: per room per night
-  saved: 51
-  expires: 2018/07/10
-  link: https://www.secretescapes.com/castello-di-baccaresca-umbria-italy/sale?utm_source=SE_Media&utm_medium=June2018&utm_campaign=Panasonic
+  location: Lombardy, Italy
+  description: A minimalist spa hotel within easy reach of Lake Como
+  price: 56
+  price-description: per person per night
+  saved: 48
+  expires: 2018/07/17
+  link: https://www.secretescapes.com/c-hotel-and-spa-lombardy-italy-europe/sale?utm_source=microsite&utm_medium=SE_media&utm_campaign=Panasonic_July2018
 
 - title: Landhotel Mühlwaldhof
   id: landhotel-mühlwaldhof
@@ -74,7 +74,7 @@
   price: 62
   price-description: per person per night
   saved: 60
-  expires: 2018/07/10
+  expires: 2018/07/17
   link: https://www.secretescapes.com/landhotel-muehlwaldhof-south-tyrol-italy/sale?utm_source=SE_Media&utm_medium=June2018&utm_campaign=Panasonic
 
 
@@ -84,16 +84,16 @@
 
 
 
-- title: H10 Puerta de Alcalá
-  id: h10-puerta-de-alcalá
+- title: Hotel Arima
+  id: hotel-arima
   category: spain
-  location: Madrid, Spain
-  description: Stylish interiors and rooftop panoramas in Madrid
-  price: 56
-  price-description: per person per night
-  saved: 37
-  expires: 2018/07/10
-  link: https://www.secretescapes.com/h10-puerta-de-alcala-madrid-spain/sale?utm_source=SE_Media&utm_medium=June2018&utm_campaign=Panasonic
+  location: San Sebastián, Spain
+  description: An eco-chic stay in the jewel of northern Spain’s Basque Country
+  price: 95
+  price-description: per room per night
+  saved: 47
+  expires: 2018/07/17
+  link: https://www.secretescapes.com/hotel-arima-san-sebastian-spain/sale?utm_source=microsite&utm_medium=SE_media&utm_campaign=Panasonic_July2018
 
 - title: Ohla Barcelona
   id: ohla-barcelona
@@ -103,18 +103,18 @@
   price: 181
   price-description: per room per night
   saved: 47
-  expires: 2018/07/10
+  expires: 2018/07/17
   link: https://www.secretescapes.com/ohla-barcelona-barcelona-spain/sale?utm_source=microsite&utm_medium=SE_media&utm_campaign=Panasonic_July2018
 
-- title: Casa Romana
-  id: casa-romana
+- title: Weare Chamartín Hotel
+  id: weare-chamartín-hotel
   category: spain
-  location: Seville, Spain
-  description: Peace and elegance at a boutique hotel in Seville
-  price: 36
+  location: Madrid, Spain
+  description: Modern comforts and design next to Madrid Chamartín train station
+  price: 39
   price-description: per person per night
-  saved: 46
-  expires: 2018/07/10
-  link: https://www.secretescapes.com/casa-romana-seville-spain/sale?utm_source=microsite&utm_medium=SE_media&utm_campaign=Panasonic_July2018
+  saved: 47
+  expires: 2018/07/17
+  link: https://www.secretescapes.com/weare-chamartin-hotel-madrid-spain/sale?utm_source=microsite&utm_medium=SE_media&utm_campaign=Panasonic_July2018
 
 
