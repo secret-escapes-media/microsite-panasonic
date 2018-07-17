@@ -5,28 +5,6 @@
 ##-----------------------------------
 
 
-- title: 5* adults-only Crete beach holiday
-  id: 5-adults-only-crete-beach-holiday
-  category: greece
-  location: Royal Marmin Bay Boutique & Art Hotel, Greece
-  description: Escape to an adults-only Crete resort with a private beach
-  price: 599
-  price-description: per person for 5 nights
-  saved:
-  expires: 2018/07/04
-  link: https://www.secretescapes.com/5-star-adults-only-crete-beach-holiday-elounda-greece/sale?utm_source=microsite&utm_medium=SE_media&utm_campaign=Panasonic_June2018
-
-- title: Lutania Beach
-  id: lutania-beach
-  category: greece
-  location: Rhodes, Greece
-  description: All-inclusive Greek Island bliss on the shores of Rhodes
-  price: 119
-  price-description: per room per night
-  saved: 29
-  expires: 2018/07/17
-  link: https://www.secretescapes.com/lutania-beach-rhodes-greece/sale?utm_source=SE_Media&utm_medium=June2018&utm_campaign=Panasonic
-
 - title: MarBella Nido Suite Hotel & Villas
   id: marbella-nido-suite-hotel-villas
   category: greece
@@ -35,8 +13,29 @@
   price: 106
   price-description: per person per night
   saved: 36
-  expires: 2018/07/17
+  expires: 2018/07/24
   link: https://www.secretescapes.com/marbella-nido-suite-hotel-and-villas-corfu-greece-europe/sale?utm_source=microsite&utm_medium=SE_media&utm_campaign=Panasonic_July2018
+
+- title: Kymata Bohemian Beach Resort
+  id: kymata-bohemian-beach-resort
+  category: greece
+  location: Kefalonia, Greece
+  description: Slip down a few gears with an idyllic island getaway on Kefalonia, staying in a boutique beachfront villa with a private pool – includes breakfast, a bottle of wine and return transfers
+  price: 101
+  price-description: per room per night
+  saved: 68
+  expires: 2018/07/24
+  link: https://www.secretescapes.com/kymata-bohemian-beach-resort-kefalonia-greece1/sale?utm_source=microsite&utm_medium=SE_media&utm_campaign=Panasonic_July2018
+
+- title: 5* luxury Skiathos beach holiday
+  id: 5-luxury-skiathos-beach-holiday
+  category: greece
+  location: Skiathos Princess, Greece
+  description: A half-board holiday at a five-star Aegean beachside hotel with a sumptuous spa - including flights.
+  price: 949
+  price-description: per person for 5 nights
+  expires: 2018/07/24
+  link: https://www.secretescapes.com/5-star-luxury-skiathos-beach-holiday-skiathos-princess-greece/sale?utm_source=microsite&utm_medium=SE_media&utm_campaign=Panasonic_July2018
 
 
 #####################################
@@ -52,7 +51,7 @@
   price: 56
   price-description: per person per night
   saved: 46
-  expires: 2018/07/17
+  expires: 2018/07/24
   link: https://www.secretescapes.com/relais-campiglioni-chianti-italy/sale?utm_source=microsite&utm_medium=SE_media&utm_campaign=Panasonic_July2018
 
 - title: C-Hotel & Spa
@@ -63,19 +62,19 @@
   price: 56
   price-description: per person per night
   saved: 48
-  expires: 2018/07/17
+  expires: 2018/07/18
   link: https://www.secretescapes.com/c-hotel-and-spa-lombardy-italy-europe/sale?utm_source=microsite&utm_medium=SE_media&utm_campaign=Panasonic_July2018
 
-- title: Landhotel Mühlwaldhof
-  id: landhotel-mühlwaldhof
+- title: Park Hotel ai Cappuccini
+  id: park-hotel-ai-cappuccini
   category: italy
-  location: South Tyrol, Italy
-  description: An Italian alpine hotel in a verdant Tyrol landscape
-  price: 62
-  price-description: per person per night
-  saved: 60
-  expires: 2018/07/17
-  link: https://www.secretescapes.com/landhotel-muehlwaldhof-south-tyrol-italy/sale?utm_source=SE_Media&utm_medium=June2018&utm_campaign=Panasonic
+  location: Gubbio, near Perugia, Italy
+  description: A luxury stay at a former 17th-century monastery in historic Gubbio, with a state-of-the-art spa and statement-making interiors - includes breakfast or half board, and more
+  price: 116
+  price-description: per room per night
+  saved: 45
+  expires: 2018/07/24
+  link: https://www.secretescapes.com/park-hotel-ai-cappuccini-gubbio-near-perugia-italy-europe/sale?utm_source=microsite&utm_medium=SE_media&utm_campaign=Panasonic_July2018
 
 
 #####################################
@@ -92,19 +91,8 @@
   price: 95
   price-description: per room per night
   saved: 47
-  expires: 2018/07/17
+  expires: 2018/07/24
   link: https://www.secretescapes.com/hotel-arima-san-sebastian-spain/sale?utm_source=microsite&utm_medium=SE_media&utm_campaign=Panasonic_July2018
-
-- title: Ohla Barcelona
-  id: ohla-barcelona
-  category: spain
-  location: Barcelona, Spain
-  description: A modern, five-star Barcelona hotel with rooftop terrace
-  price: 181
-  price-description: per room per night
-  saved: 47
-  expires: 2018/07/17
-  link: https://www.secretescapes.com/ohla-barcelona-barcelona-spain/sale?utm_source=microsite&utm_medium=SE_media&utm_campaign=Panasonic_July2018
 
 - title: Weare Chamartín Hotel
   id: weare-chamartín-hotel
@@ -114,7 +102,16 @@
   price: 39
   price-description: per person per night
   saved: 47
-  expires: 2018/07/17
+  expires: 2018/07/24
   link: https://www.secretescapes.com/weare-chamartin-hotel-madrid-spain/sale?utm_source=microsite&utm_medium=SE_media&utm_campaign=Panasonic_July2018
 
-
+- title: H10 Universitat
+  id: h10-universitat
+  category: spain
+  location: Barcelona, Spain
+  description: A stylish, award-winning hotel in central Barcelona, with sleek monochrome decor and a scenic rooftop bar - breakfast and cava included
+  price: 101
+  price-description: per room per night
+  saved: 46
+  expires: 2018/07/24
+  link: https://www.secretescapes.com/h10-universitat-barcelona-spain/sale?utm_source=microsite&utm_medium=SE_media&utm_campaign=Panasonic_July2018
