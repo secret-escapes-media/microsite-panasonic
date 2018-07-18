@@ -9,7 +9,7 @@
   id: marbella-nido-suite-hotel-villas
   category: greece
   location: Corfu, Greece
-  description: Adults-only bliss at a pristine hotel on Corfu's coast
+  description: A boutique adults-only hotel with private beach, a half-hour drive from Corfu city on the island’s sun-kissed eastern coast – includes half board and a suite with pool or whirlpool
   price: 106
   price-description: per person per night
   saved: 36
@@ -47,23 +47,12 @@
   id: relais-campiglioni
   category: italy
   location: Chianti, Italy
-  description: A rustic farmhouse stay in the Chianti hills
+  description: A palate-pleasing break spent savouring quality wine at classic estates in the Chianti hills, with wine tasting tours and more
   price: 56
   price-description: per person per night
   saved: 46
   expires: 2018/07/24
   link: https://www.secretescapes.com/relais-campiglioni-chianti-italy/sale?utm_source=microsite&utm_medium=SE_media&utm_campaign=Panasonic_July2018
-
-- title: C-Hotel & Spa
-  id: c-hotel-spa
-  category: italy
-  location: Lombardy, Italy
-  description: A minimalist spa hotel within easy reach of Lake Como
-  price: 56
-  price-description: per person per night
-  saved: 48
-  expires: 2018/07/18
-  link: https://www.secretescapes.com/c-hotel-and-spa-lombardy-italy-europe/sale?utm_source=microsite&utm_medium=SE_media&utm_campaign=Panasonic_July2018
 
 - title: Park Hotel ai Cappuccini
   id: park-hotel-ai-cappuccini
@@ -76,6 +65,16 @@
   expires: 2018/07/24
   link: https://www.secretescapes.com/park-hotel-ai-cappuccini-gubbio-near-perugia-italy-europe/sale?utm_source=microsite&utm_medium=SE_media&utm_campaign=Panasonic_July2018
 
+- title: Villa San Martino
+  id: villa-san-martino
+  category: italy
+  location: Puglia, Italy
+  description: Stay in the heart of trulli country at a beautifully restored 19th-century masseria in Puglia’s Valle d’Itria - includes breakfast plus spa and dining discounts
+  price: 89
+  price-description: per room per night
+  expires: 2018/07/24
+  link: https://www.secretescapes.com/villa-san-martino-puglia-italy/sale?utm_source=microsite&utm_medium=SE_media&utm_campaign=Panasonic_July2018
+
 
 #####################################
 ##  SPAIN OFFERS // category: spain
@@ -87,7 +86,7 @@
   id: hotel-arima
   category: spain
   location: San Sebastián, Spain
-  description: An eco-chic stay in the jewel of northern Spain’s Basque Country
+  description: An eco-chic stay at a Scandinavian-style contemporary hotel in the northern Spain city of San Sebastián - with breakfast and water and fruit in your room
   price: 95
   price-description: per room per night
   saved: 47
@@ -98,7 +97,7 @@
   id: weare-chamartín-hotel
   category: spain
   location: Madrid, Spain
-  description: Modern comforts and design next to Madrid Chamartín train station
+  description: Modern comforts and design in a convenient location next to Madrid Chamartín train station - breakfast and a welcome drink included
   price: 39
   price-description: per person per night
   saved: 47
