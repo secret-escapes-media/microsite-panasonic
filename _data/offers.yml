@@ -5,17 +5,6 @@
 ##-----------------------------------
 
 
-- title: MarBella Nido Suite Hotel & Villas
-  id: marbella-nido-suite-hotel-villas
-  category: greece
-  location: Corfu, Greece
-  description: A boutique adults-only hotel with private beach, a half-hour drive from Corfu city on the island’s sun-kissed eastern coast – includes half board and a suite with pool or whirlpool
-  price: 106
-  price-description: per person per night
-  saved: 36
-  expires: 2018/07/24
-  link: https://www.secretescapes.com/marbella-nido-suite-hotel-and-villas-corfu-greece-europe/sale?utm_source=microsite&utm_medium=SE_media&utm_campaign=Panasonic_July2018
-
 - title: Kymata Bohemian Beach Resort
   id: kymata-bohemian-beach-resort
   category: greece
@@ -27,32 +16,33 @@
   expires: 2018/07/24
   link: https://www.secretescapes.com/kymata-bohemian-beach-resort-kefalonia-greece1/sale?utm_source=microsite&utm_medium=SE_media&utm_campaign=Panasonic_July2018
 
-- title: 5* luxury Skiathos beach holiday
-  id: 5-luxury-skiathos-beach-holiday
+- title: Horizon Hotel Mykonos
+  id: horizon-hotel-mykonos
   category: greece
-  location: Skiathos Princess, Greece
-  description: A half-board holiday at a five-star Aegean beachside hotel with a sumptuous spa - including flights.
-  price: 949
-  price-description: per person for 5 nights
+  location: Mykonos, Greece
+  description: Sublime sea views from a boutique hideaway in Mykonos
+  price: 148
+  price-description: per room per night
+  saved: 43
   expires: 2018/07/24
-  link: https://www.secretescapes.com/5-star-luxury-skiathos-beach-holiday-skiathos-princess-greece/sale?utm_source=microsite&utm_medium=SE_media&utm_campaign=Panasonic_July2018
+  link: https://www.secretescapes.com/horizon-hotel-mykonos-mykonos-greece/sale?utm_source=microsite&utm_medium=SE_media&utm_campaign=Panasonic_July2018
+
+- title: 5* adults-only Kos holiday with optional private pool suite
+  id: 5-adults-only-kos-holiday-with-optional-private-pool-suite
+  category: greece
+  location: Diamond Deluxe Hotel, Greece
+  description: A five-star, adults-only boutique beach hotel on Kos
+  price: 499
+  price-description: per person for 5 nights
+  saved: 41
+  expires: 2018/07/24
+  link: https://www.secretescapes.com/diamond-deluxe-kos-summer-sale-diamond-deluxe-hotel-greece/sale?utm_source=microsite&utm_medium=SE_media&utm_campaign=Panasonic_July2018
 
 
 #####################################
 ##  ITALY OFFERS // category: italy
 ##-----------------------------------
 
-
-- title: Relais Campiglioni
-  id: relais-campiglioni
-  category: italy
-  location: Chianti, Italy
-  description: A palate-pleasing break spent savouring quality wine at classic estates in the Chianti hills, with wine tasting tours and more
-  price: 56
-  price-description: per person per night
-  saved: 46
-  expires: 2018/07/24
-  link: https://www.secretescapes.com/relais-campiglioni-chianti-italy/sale?utm_source=microsite&utm_medium=SE_media&utm_campaign=Panasonic_July2018
 
 - title: Park Hotel ai Cappuccini
   id: park-hotel-ai-cappuccini
@@ -65,44 +55,32 @@
   expires: 2018/07/24
   link: https://www.secretescapes.com/park-hotel-ai-cappuccini-gubbio-near-perugia-italy-europe/sale?utm_source=microsite&utm_medium=SE_media&utm_campaign=Panasonic_July2018
 
-- title: Villa San Martino
-  id: villa-san-martino
+- title: Il Castelfalfi
+  id: il-castelfalfi
   category: italy
-  location: Puglia, Italy
-  description: Stay in the heart of trulli country at a beautifully restored 19th-century masseria in Puglia’s Valle d’Itria - includes breakfast plus spa and dining discounts
-  price: 89
-  price-description: per room per night
+  location: Tuscany, Italy
+  description: An elegant stay at a five-star Tuscan spa hotel
+  price: 98
+  price-description: per person per night
+  saved: 39
   expires: 2018/07/24
-  link: https://www.secretescapes.com/villa-san-martino-puglia-italy/sale?utm_source=microsite&utm_medium=SE_media&utm_campaign=Panasonic_July2018
+  link: https://www.secretescapes.com/il-castelfalfi-tuscany-italy1201/sale?utm_source=microsite&utm_medium=SE_media&utm_campaign=Panasonic_July2018
+
+- title: Idyllic Italy break on the border of picturesque Tuscany
+  id: idyllic-italy-break-on-the-border-of-picturesque-tuscany
+  category: italy
+  location: Locanda dell’Angelo, Ameglia
+  description: A marvellous break to the border of postcard-pretty Tuscany, with foodie options
+  price: 199
+  price-description: per person for 3 nights
+  expires: 2018/07/24
+  link: https://www.secretescapes.com/idyllic-italy-break-on-the-border-of-picturesque-tuscany-locanda-dellangelo-ameglia/sale?utm_source=microsite&utm_medium=SE_media&utm_campaign=Panasonic_July2018
 
 
 #####################################
 ##  SPAIN OFFERS // category: spain
 ##-----------------------------------
 
-
-
-- title: Hotel Arima
-  id: hotel-arima
-  category: spain
-  location: San Sebastián, Spain
-  description: An eco-chic stay at a Scandinavian-style contemporary hotel in the northern Spain city of San Sebastián - with breakfast and water and fruit in your room
-  price: 95
-  price-description: per room per night
-  saved: 47
-  expires: 2018/07/24
-  link: https://www.secretescapes.com/hotel-arima-san-sebastian-spain/sale?utm_source=microsite&utm_medium=SE_media&utm_campaign=Panasonic_July2018
-
-- title: Weare Chamartín Hotel
-  id: weare-chamartín-hotel
-  category: spain
-  location: Madrid, Spain
-  description: Modern comforts and design in a convenient location next to Madrid Chamartín train station - breakfast and a welcome drink included
-  price: 39
-  price-description: per person per night
-  saved: 47
-  expires: 2018/07/24
-  link: https://www.secretescapes.com/weare-chamartin-hotel-madrid-spain/sale?utm_source=microsite&utm_medium=SE_media&utm_campaign=Panasonic_July2018
 
 - title: H10 Universitat
   id: h10-universitat
@@ -114,3 +92,25 @@
   saved: 46
   expires: 2018/07/24
   link: https://www.secretescapes.com/h10-universitat-barcelona-spain/sale?utm_source=microsite&utm_medium=SE_media&utm_campaign=Panasonic_July2018
+
+- title: Hotel Benetusser
+  id: hotel-benetusser
+  category: spain
+  location: Valencia, Spain
+  description: Traditional Spanish charm from a classic Valencia base
+  price: 50
+  price-description: per room per night
+  saved: 31
+  expires: 2018/07/24
+  link: https://www.secretescapes.com/hotel-benetusser-valencia-spain/sale?utm_source=microsite&utm_medium=SE_media&utm_campaign=Panasonic_July2018
+
+- title: Gran Hotel Inglés
+  id: gran-hotel-ingles
+  category: spain
+  location: Madrid, Spain
+  description: An iconic, five-star boutique hotel in Madrid’s famous Literary Quarter
+  price: 175
+  price-description: per room per night
+  saved: 36
+  expires: 2018/07/24
+  link: https://www.secretescapes.com/gran-hotel-ingles-madrid-spain/sale?utm_source=microsite&utm_medium=SE_media&utm_campaign=Panasonic_July2018
