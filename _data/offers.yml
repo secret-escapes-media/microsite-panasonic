@@ -13,47 +13,36 @@
   price: 101
   price-description: per room per night
   saved: 68
-  expires: 2018/07/24
+  expires: 2018/08/07
   link: https://www.secretescapes.com/kymata-bohemian-beach-resort-kefalonia-greece1/sale?utm_source=microsite&utm_medium=SE_media&utm_campaign=Panasonic_July2018
 
-- title: Horizon Hotel Mykonos
-  id: horizon-hotel-mykonos
+- title: Mr & Mrs White Corfu
+  id: mr-mrs-white-corfu
   category: greece
-  location: Mykonos, Greece
-  description: Sublime sea views from a boutique hideaway in Mykonos
-  price: 148
-  price-description: per room per night
-  saved: 43
-  expires: 2018/07/24
-  link: https://www.secretescapes.com/horizon-hotel-mykonos-mykonos-greece/sale?utm_source=microsite&utm_medium=SE_media&utm_campaign=Panasonic_July2018
+  location: Corfu, Greek Islands
+  description: Island Zen at a new boutique hotel in Corfu
+  price: 46
+  price-description: per person per night
+  saved: 36
+  expires: 2018/08/07
+  link: https://www.secretescapes.com/mr-and-mrs-white-corfu-acharavi-greek-islands88/sale?utm_source=microsite&utm_medium=SE_media&utm_campaign=panasonic_July2018
 
-- title: 5* adults-only Kos holiday with optional private pool suite
-  id: 5-adults-only-kos-holiday-with-optional-private-pool-suite
+- title: Thalatta Seaside Hotel
+  id: thalatta-seaside-hotel
   category: greece
-  location: Diamond Deluxe Hotel, Greece
-  description: A five-star, adults-only boutique beach hotel on Kos
-  price: 499
-  price-description: per person for 5 nights
-  saved: 41
-  expires: 2018/07/24
-  link: https://www.secretescapes.com/diamond-deluxe-kos-summer-sale-diamond-deluxe-hotel-greece/sale?utm_source=microsite&utm_medium=SE_media&utm_campaign=Panasonic_July2018
+  location: Evia, Greece
+  description: A stylish sea-facing stay at an Evia spa retreat
+  price: 103
+  price-description: per room per night
+  saved: 62
+  expires: 2018/08/07
+  link: https://www.secretescapes.com/thalatta-seaside-hotel-evia-greece/sale?utm_source=microsite&utm_medium=SE_media&utm_campaign=panasonic_July2018
 
 
 #####################################
 ##  ITALY OFFERS // category: italy
 ##-----------------------------------
 
-
-- title: Park Hotel ai Cappuccini
-  id: park-hotel-ai-cappuccini
-  category: italy
-  location: Gubbio, near Perugia, Italy
-  description: A luxury stay at a former 17th-century monastery in historic Gubbio, with a state-of-the-art spa and statement-making interiors - includes breakfast or half board, and more
-  price: 116
-  price-description: per room per night
-  saved: 45
-  expires: 2018/07/24
-  link: https://www.secretescapes.com/park-hotel-ai-cappuccini-gubbio-near-perugia-italy-europe/sale?utm_source=microsite&utm_medium=SE_media&utm_campaign=Panasonic_July2018
 
 - title: Il Castelfalfi
   id: il-castelfalfi
@@ -63,18 +52,30 @@
   price: 98
   price-description: per person per night
   saved: 39
-  expires: 2018/07/24
+  expires: 2018/08/07
   link: https://www.secretescapes.com/il-castelfalfi-tuscany-italy1201/sale?utm_source=microsite&utm_medium=SE_media&utm_campaign=Panasonic_July2018
 
-- title: Idyllic Italy break on the border of picturesque Tuscany
-  id: idyllic-italy-break-on-the-border-of-picturesque-tuscany
+- title: Gourmet Italy wine break to Veneto & Tuscany
+  id: gourmet-italy-wine-break-to-veneto-tuscany
   category: italy
-  location: Locanda dell’Angelo, Ameglia
-  description: A marvellous break to the border of postcard-pretty Tuscany, with foodie options
-  price: 199
-  price-description: per person for 3 nights
-  expires: 2018/07/24
-  link: https://www.secretescapes.com/idyllic-italy-break-on-the-border-of-picturesque-tuscany-locanda-dellangelo-ameglia/sale?utm_source=microsite&utm_medium=SE_media&utm_campaign=Panasonic_July2018
+  location: Soave, Treviso & Chianciano Terme
+  description: A week of wine and olive oil adoration in Italy
+  price: 87
+  price-description: per room per night
+  saved: 26
+  expires: 2018/08/07
+  link: https://www.secretescapes.com/gourmet-italy-wine-break-to-veneto-and-tuscany-soave-treviso-and-chianciano-terme/sale?utm_source=microsite&utm_medium=SE_media&utm_campaign=panasonic_July2018
+
+- title: Villa San Filippo
+  id: villa-san-filippo
+  category: italy
+  location: Tuscany, Italy
+  description: A 16th-century Tuscan villa in the stunning Chianti hills
+  price: 54
+  price-description: per person per night
+  saved: 65
+  expires: 2018/08/07
+  link: https://www.secretescapes.com/villa-san-filippo-tuscany-italy3/sale?utm_source=microsite&utm_medium=SE_media&utm_campaign=panasonic_July2018
 
 
 #####################################
@@ -90,7 +91,7 @@
   price: 101
   price-description: per room per night
   saved: 46
-  expires: 2018/07/24
+  expires: 2018/08/07
   link: https://www.secretescapes.com/h10-universitat-barcelona-spain/sale?utm_source=microsite&utm_medium=SE_media&utm_campaign=Panasonic_July2018
 
 - title: Hotel Benetusser
@@ -101,7 +102,7 @@
   price: 50
   price-description: per room per night
   saved: 31
-  expires: 2018/07/24
+  expires: 2018/08/07
   link: https://www.secretescapes.com/hotel-benetusser-valencia-spain/sale?utm_source=microsite&utm_medium=SE_media&utm_campaign=Panasonic_July2018
 
 - title: Gran Hotel Inglés
@@ -112,5 +113,5 @@
   price: 175
   price-description: per room per night
   saved: 36
-  expires: 2018/07/24
+  expires: 2018/08/07
   link: https://www.secretescapes.com/gran-hotel-ingles-madrid-spain/sale?utm_source=microsite&utm_medium=SE_media&utm_campaign=Panasonic_July2018
